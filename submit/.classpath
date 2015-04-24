@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="cloud_analyst/src"/>
+	<classpathentry kind="lib" path="cloud_analyst/jars/cloudanalyst.jar"/>
+	<classpathentry kind="lib" path="cloud_analyst/jars/gridsim.jar"/>
+	<classpathentry kind="lib" path="cloud_analyst/jars/iText-2.1.5.jar"/>
+	<classpathentry kind="lib" path="cloud_analyst/jars/simjava2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="cloud_analyst/build/classes"/>
+</classpath>
